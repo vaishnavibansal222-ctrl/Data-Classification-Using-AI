@@ -203,8 +203,6 @@ The project automatically generates:
 
 ## 💻 Installation
 
-# 💻 Installation
-
 ```bash
 # Clone the repository
 git clone https://github.com/vaishnavibansal222-ctrl/Data-Classification-Using-AI.git
