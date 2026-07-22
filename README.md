@@ -71,33 +71,33 @@ Why Random Forest?
 
 ## 📂 Project Structure
 
-Iris-Flower-Classification-Using-Random-Forest
-│
-├── outputs/
-│   ├── iris_dataset.csv
-│   ├── species_count.png
-│   ├── feature_pairplot.png
-│   ├── correlation_heatmap.png
-│   ├── confusion_matrix.png
-│   ├── accuracy_vs_trees.png
-│   ├── feature_importance.png
-│   └── iris_random_forest_model.joblib
-│
-├── screenshots/
-│   ├── species_count.png
-│   ├── pairplot.png
-│   ├── heatmap.png
-│   ├── confusion_matrix.png
-│   └── feature_importance.png
-│
-├── iris_classifier.py
-├── requirements.txt
-├── README.md
-├── LICENSE
-├── .gitignore
-└── assets/
-    └── banner.png
-    
+| **Folder/File**                                          | **Description**                                                                               |
+| -------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| 📁 `outputs/`                                            | Stores all generated outputs, graphs, CSV file, and trained model.                            |
+| ├── `iris_dataset.csv`                                   | Exported Iris dataset in CSV format.                                                          |
+| ├── `species_count.png`                                  | Species distribution visualization.                                                           |
+| ├── `feature_pairplot.png`                               | Pair plot showing feature relationships.                                                      |
+| ├── `correlation_heatmap.png`                            | Heatmap showing feature correlations.                                                         |
+| ├── `confusion_matrix.png`                               | Confusion matrix of model predictions.                                                        |
+| ├── `accuracy_vs_trees.png`                              | Graph showing accuracy versus the number of trees.                                            |
+| ├── `feature_importance.png`                             | Bar chart displaying feature importance. *(If saved in your code)*                            |
+| └── `iris_random_forest_model.joblib`                    | Saved trained Random Forest model.                                                            |
+| 📁 `screenshots/`                                        | Contains screenshots used in the README for project preview.                                  |
+| ├── `species_count.png`                                  | Screenshot of the species distribution graph.                                                 |
+| ├── `feature_pairplot.png`                               | Screenshot of the pair plot.                                                                  |
+| ├── `correlation_heatmap.png`                            | Screenshot of the heatmap.                                                                    |
+| ├── `confusion_matrix.png`                               | Screenshot of the confusion matrix.                                                           |
+| ├── `accuracy_vs_trees.png`                              | Screenshot of the accuracy graph.                                                             |
+| └── `feature_importance.png`                             | Screenshot of the feature importance graph.                                                   |
+| 📄 `PROJECT-2 VAISHNAVI DATA CLASSIFICATION USING AI.py` | Main Python source code for the Iris Flower Classification 
+project.
+|
+| 📄 `README.md`                                           | Project documentation with overview, installation steps, screenshots, and usage instructions. |
+
+| 📄 `requirements.txt`                                    | List of Python libraries required to run the project.                                         |
+| 📄 `LICENSE`                                             | MIT License for the project.                                                                  |
+| 📄 `.gitignore`                                          | Specifies files and folders to exclude from Git tracking.                                     |
+
 
 ## 🔄 Project Workflow
 
@@ -171,12 +171,12 @@ The project automatically generates the following visualizations:
 
 ![Feature Importance]<img width="941" height="461" alt="Feature Important" src="https://github.com/user-attachments/assets/58bcd5b3-1367-4152-a4a6-9ce681692c54" />
 
+
 ## Accuracy VS No. Of Trees
-![Accuracy VS No. Of Trees]<img width="572" height="455" alt="Confusion Matrix" src="https://github.com/user-attachments/assets/e73cd942-6305-4207-9a77-a996601b6519" />
-<img width="959" height="446" alt="Accuracy vs NO  Of Trees" src="https://github.com/user-attachments/assets/86f25635-e739-472c-8295-249ae4f8e493" />
+![Accuracy VS No. Of Trees]<img width="959" height="446" alt="Accuracy vs NO  Of Trees" src="https://github.com/user-attachments/assets/86f25635-e739-472c-8295-249ae4f8e493" />
 
 
-📊 Model Evaluation
+## 📊 Model Evaluation
 
 The trained model is evaluated using:
 
@@ -187,9 +187,13 @@ The trained model is evaluated using:
 *Feature Importance
 *Sample Prediction
 
-📁 Output Files
+##📁 Output Files
 
 The project automatically generates:
+# Program Successfully Completed
+
+<img width="425" height="83" alt="Program succesfull" src="https://github.com/user-attachments/assets/f9a554b8-3508-4b4d-aeaf-84e52ae1ef47" />
+
 
 *iris_dataset.csv
 *species_count.png
@@ -200,7 +204,8 @@ The project automatically generates:
 *feature_importance.png
 *iris_random_forest_model.joblib
 
-💻 Installation
+## 💻 Installation
+
 git clone https://github.com/vaishnavibansal222-ctrl/Data-Classification-Using-AI.git
 
 cd Data-Classification-Using-AI
@@ -209,7 +214,8 @@ pip install -r requirements.txt
 
 python "PROJECT-2 VAISHNAVI DATA CLASSIFICATION USING AI.py"
 
-📌 Future Improvements
+
+## 📌 Future Improvements
 *Streamlit Web Application
 *Flask REST API
 *Hyperparameter Optimization
@@ -218,7 +224,7 @@ python "PROJECT-2 VAISHNAVI DATA CLASSIFICATION USING AI.py"
 *Interactive Dashboard
 *Model Explainability using SHAP
 
-🎯 Skills Demonstrated
+## 🎯 Skills Demonstrated
 *Machine Learning
 *Artificial Intelligence
 *Data Analysis
@@ -231,16 +237,16 @@ python "PROJECT-2 VAISHNAVI DATA CLASSIFICATION USING AI.py"
 *Python Programming
 *Git & GitHub
 
-👩‍💻 Developed By
+## 👩‍💻 Developed By
 
 Vaishnavi Bansal
 
 DecodeLabs Artificial Intelligence Internship
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT Lice
 
-⭐ Show Your Support
+## ⭐ Show Your Support
 
 If you found this project useful, please consider giving it a ⭐ Star on GitHub.
