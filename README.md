@@ -203,14 +203,21 @@ The project automatically generates:
 
 ## 💻 Installation
 
+# 💻 Installation
+
+```bash
+# Clone the repository
 git clone https://github.com/vaishnavibansal222-ctrl/Data-Classification-Using-AI.git
 
+# Navigate to the project directory
 cd Data-Classification-Using-AI
 
+# Install dependencies
 pip install -r requirements.txt
 
+# Run the project
 python "PROJECT-2 VAISHNAVI DATA CLASSIFICATION USING AI.py"
-
+```
 
 ## 📌 Future Improvements
 * Streamlit Web Application
