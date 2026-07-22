@@ -1,8 +1,8 @@
-🌸 Iris Flower Species Classification Using AI
+## 🌸 Iris Flower Species Classification Using AI
 
 A complete Machine Learning project that classifies Iris flowers into three different species using the Random Forest Classification algorithm. This project demonstrates the complete AI workflow, from data exploration to model deployment, and was developed as part of the DecodeLabs Artificial Intelligence Internship.
 
-📖 Project Overview
+## 📖 Project Overview
 
 Machine Learning has become an essential part of Artificial Intelligence by enabling computers to make intelligent decisions from data. This project applies Machine Learning techniques to classify Iris flowers into three different species using their physical characteristics.
 
@@ -20,7 +20,7 @@ The project follows a complete end-to-end Machine Learning pipeline, including:
 
 The goal is to demonstrate a production-style machine learning workflow while maintaining clean, readable, and professional Python code.
 
-🌺 Iris Flower Species
+## 🌺 Iris Flower Species
 
 The model predicts one of the following flower species:
 *🌸 Iris Setosa
@@ -43,7 +43,7 @@ Features Used
 | Petal Length | Length of the petal (cm) |
 | Petal Width  | Width of the petal (cm)  |
 
-🚀 Technologies Used
+##🚀 Technologies Used
 *Python
 *NumPy
 *Pandas
@@ -52,7 +52,7 @@ Features Used
 *Scikit-learn
 *Joblib
 
-🤖 Machine Learning Algorithm
+## 🤖 Machine Learning Algorithm
 Random Forest Classifier
 
 Random Forest is an ensemble learning algorithm that builds multiple decision trees and combines their predictions to achieve high accuracy while reducing overfitting.
@@ -69,8 +69,9 @@ Why Random Forest?
 
 ✔ Fast and Reliable
 
-📂 Project Structure
-Iris-Flower-Classification-Using-Random-Forest/
+## 📂 Project Structure
+
+Iris-Flower-Classification-Using-Random-Forest
 │
 ├── outputs/
 │   ├── iris_dataset.csv
@@ -96,8 +97,9 @@ Iris-Flower-Classification-Using-Random-Forest/
 ├── .gitignore
 └── assets/
     └── banner.png
+    
 
-🔄 Project Workflow
+## 🔄 Project Workflow
 
                 Iris Dataset
                       │
@@ -130,8 +132,9 @@ Iris-Flower-Classification-Using-Random-Forest/
                       │
                       ▼
             Predict New Samples
+            
 
-    📈 Generated Visualizations
+## 📈 Generated Visualizations
 
 The project automatically generates the following visualizations:
 
@@ -142,29 +145,36 @@ The project automatically generates the following visualizations:
 *📈 Accuracy vs Number of Trees
 *📊 Feature Importance
 
-🖼 Project Screenshots
+## 🖼 Project Screenshots
 
 ## Species Distribution
 
-![Species Distribution](screenshots/species_count.png)
-
+![Species Distribution]<img width="524" height="410" alt="speceies distribution png" src="https://github.com/user-attachments/assets/b005296c-2372-48be-85ee-ff5bd1e7e20c" />
 
 ## Pair Plot
 
-![Pair Plot](screenshots/pairplot.png)
+![Pair Plot] <img width="1280" height="616" alt="Pair plot" src="https://github.com/user-attachments/assets/8ca57c0b-b6b9-40aa-9216-c484b51bea75" />
+
 
 ## Correlation Heatmap
 
-![Heatmap](screenshots/heatmap.png)
+![Heatmap]<img width="901" height="458" alt="Corellation heatmap" src="https://github.com/user-attachments/assets/a02d3de1-f84b-42f5-b0f5-2ffe7c7f07b1" />
+
 
 
 ## Confusion Matrix
 
-![Confusion Matrix](screenshots/confusion_matrix.png)
+![Confusion Matrix]<img width="572" height="455" alt="Confusion Matrix" src="https://github.com/user-attachments/assets/3b77b174-13a1-4503-a911-33b239ee3667" />
+
 
 ## Feature Importance
 
-![Feature Importance](screenshots/feature_importance.png)
+![Feature Importance]<img width="941" height="461" alt="Feature Important" src="https://github.com/user-attachments/assets/58bcd5b3-1367-4152-a4a6-9ce681692c54" />
+
+## Accuracy VS No. Of Trees
+![Accuracy VS No. Of Trees]<img width="572" height="455" alt="Confusion Matrix" src="https://github.com/user-attachments/assets/e73cd942-6305-4207-9a77-a996601b6519" />
+<img width="959" height="446" alt="Accuracy vs NO  Of Trees" src="https://github.com/user-attachments/assets/86f25635-e739-472c-8295-249ae4f8e493" />
+
 
 📊 Model Evaluation
 
