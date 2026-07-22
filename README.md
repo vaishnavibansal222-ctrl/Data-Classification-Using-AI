@@ -90,10 +90,8 @@ Random Forest Classifier
 | ├── `accuracy_vs_trees.png`                              | Screenshot of the accuracy graph.                                                             |
 | └── `feature_importance.png`                             | Screenshot of the feature importance graph.                                                   |
 | 📄 `PROJECT-2 VAISHNAVI DATA CLASSIFICATION USING AI.py` | Main Python source code for the Iris Flower Classification.
-
 | 📄 `README.md`                                           | Project documentation with overview, installation steps, screenshots, and usage instructions. |
-
-| 📄 `requirements.txt`                                    | List of Python libraries required to run the project.                                         |
+| 📄 `requirements.txt`                                    | List of Python libraries required to run the project.                                      |
 | 📄 `LICENSE`                                             | MIT License for the project.                                                                  |
 | 📄 `.gitignore`                                          | Specifies files and folders to exclude from Git tracking.                                     
 
