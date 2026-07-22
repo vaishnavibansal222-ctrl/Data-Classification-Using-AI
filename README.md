@@ -8,8 +8,8 @@ Machine Learning has become an essential part of Artificial Intelligence by enab
 
 The project follows a complete end-to-end Machine Learning pipeline, including:
 
-*Loading and exploring the dataset
-*Data preprocessing
+* Loading and exploring the dataset
+* Data preprocessing
 *Data visualization
 *Model training using Random Forest
 *Performance evaluation
