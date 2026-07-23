@@ -1,3 +1,17 @@
+<img width="1240" height="540" alt="DATA CLASSIFICATION USING AI" src="https://github.com/user-attachments/assets/849e1952-b095-4a27-bde8-664e856a3e4b" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.14-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dataset-Iris-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Model-KNN-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Project-2-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DecodeLabs-AI%20Internship-purple?style=for-the-badge"/>
+</p>
+
+
 ## 🌸 Iris Flower Species Classification Using AI
 
 ✨A complete Machine Learning project that classifies Iris flowers into three different species using the Random Forest Classification algorithm. This project demonstrates the complete AI workflow, from data exploration to model deployment, and was developed as part of the DecodeLabs Artificial Intelligence Internship.
