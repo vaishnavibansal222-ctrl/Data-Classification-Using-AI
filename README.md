@@ -85,31 +85,42 @@ Random Forest Classifier
 
 ## 📂 Project Structure
 
-| **Folder/File**                                          | **Description**                                                                               |
-| -------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| 📁 `outputs/`                                            | Stores all generated outputs, graphs, CSV file, and trained model.                            |
-| ├── `iris_dataset.csv`                                   | Exported Iris dataset in CSV format.                                                          |
-| ├── `species_count.png`                                  | Species distribution visualization.                                                           |
-| ├── `feature_pairplot.png`                               | Pair plot showing feature relationships.                                                      |
-| ├── `correlation_heatmap.png`                            | Heatmap showing feature correlations.                                                         |
-| ├── `confusion_matrix.png`                               | Confusion matrix of model predictions.                                                        |
-| ├── `accuracy_vs_trees.png`                              | Graph showing accuracy versus the number of trees.                                            |
-| ├── `feature_importance.png`                             | Bar chart displaying feature importance. *(If saved in your code)*                            |
-| └── `iris_random_forest_model.joblib`                    | Saved trained Random Forest model.                                                            |
-| 📁 `screenshots/`                                        | Contains screenshots used in the README for project preview.                                  |
-| ├── `species_count.png`                                  | Screenshot of the species distribution graph.                                                 |
-| ├── `feature_pairplot.png`                               | Screenshot of the pair plot.                                                                  |
-| ├── `correlation_heatmap.png`                            | Screenshot of the heatmap.                                                                    |
-| ├── `confusion_matrix.png`                               | Screenshot of the confusion matrix.                                                           |
-| ├── `accuracy_vs_trees.png`                              | Screenshot of the accuracy graph.                                                             |
-| └── `feature_importance.png`                             | Screenshot of the feature importance graph.                                                   |
-| 📄 `PROJECT-2 VAISHNAVI DATA CLASSIFICATION USING AI.py` | Main Python source code for the Iris Flower Classification.
-| 📄 `README.md`                                           | Project documentation with overview, installation steps, screenshots, and usage instructions. |
-| 📄 `requirements.txt`                                    | List of Python libraries required to run the project.                                      |
-| 📄 `LICENSE`                                             | MIT License for the project.                                                                  |
-| 📄 `.gitignore`                                          | Specifies files and folders to exclude from Git tracking.                                     
+```mermaid
+flowchart TD
+
+    A[Iris Flower Classification Using AI]
+
+    A --> B[PROJECT-2 VAISHNAVI DATA CLASSIFICATION USING AI.py]
+
+    A --> C[README.md]
+
+    A --> D[requirements.txt]
+
+    A --> E[outputs]
+
+    E --> E1[iris_dataset.csv]
+
+    E --> E2[species_count.png]
+
+    E --> E3[feature_pairplot.png]
+
+    E --> E4[correlation_heatmap.png]
+
+    E --> E5[confusion_matrix.png]
+
+    E --> E6[accuracy_vs_trees.png]
+
+    E --> E7[feature_importance.png]
+
+    E --> E8[iris_random_forest_model.joblib]
+```
 
 
+
+   
+
+ 
+  
 ## 🔄 Project Workflow
 
                 Iris Dataset
@@ -256,6 +267,10 @@ python "PROJECT-2 VAISHNAVI DATA CLASSIFICATION USING AI.py"
 ## 👩‍💻 Developed By
 
 Vaishnavi Bansal
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vaishnavi-bansal-95896b384) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaishnavibansal222@gmail.com) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
 
 DecodeLabs Artificial Intelligence Internship
 
