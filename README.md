@@ -1,5 +1,5 @@
 
-<img width="1240" height="540" alt="DATA CLASSIFICATION USING AI" src="https://github.com/user-attachments/assets/849e1952-b095-4a27-bde8-664e856a3e4b" />
+<img width="1240" height="340" alt="DATA CLASSIFICATION USING AI" src="https://github.com/user-attachments/assets/a5cbb9d3-d798-449e-9370-2619738831b3" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.14-blue?style=for-the-badge&logo=python&logoColor=white"/>
