@@ -11,6 +11,11 @@
   <img src="https://img.shields.io/badge/DecodeLabs-AI%20Internship-purple?style=for-the-badge"/>
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI-Powered+Data+Classification;Automating+Categorization+%26+Insights;High-Accuracy+Machine+Learning+Models;Smart+Data+Preprocessing" alt="Typing SVG" />
+  </a>
+</p>
 
 ## 🌸 Iris Flower Species Classification Using AI
 
@@ -277,3 +282,5 @@ This project is licensed under the MIT Lice
 ## ⭐ Show Your Support
 
 If you found this project useful, please consider giving it a ⭐ Star on GitHub.
+
+
