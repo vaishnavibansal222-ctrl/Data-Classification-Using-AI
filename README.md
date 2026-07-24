@@ -115,8 +115,6 @@ flowchart TD
     E --> E8[iris_random_forest_model.joblib]
 ```
 
-
-
    
 
  
@@ -266,13 +264,11 @@ python "PROJECT-2 VAISHNAVI DATA CLASSIFICATION USING AI.py"
 
 ## 👩‍💻 Developed By
 
-Vaishnavi Bansal
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vaishnavi-bansal-95896b384) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaishnavibansal222@gmail.com) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
-
+## Vaishnavi Bansal
 DecodeLabs Artificial Intelligence Internship
+
+🌐 MY Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vaishnavi-bansal-95896b384) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaishnavibansal222@gmail.com) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
 
 ## 📜 License
 
